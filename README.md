@@ -31,12 +31,16 @@ ArcMap: Used for final map layout, classification, and symbology.
 **Methodology**
 The analysis was conducted using a spectral index approach to compare the pre-flood and post-flood landscapes. The core of the methodology involved calculating four key indices from the Sentinel-2 bands.
 
-**Spectral Indices **
-Normalized Difference Vegetation Index (NDVI)Purpose: To assess vegetation health and density17.
+**Spectral Indices** 
+Normalized Difference Vegetation Index (NDVI)
+Purpose: To assess vegetation health and density17.
+
 Normalized Difference Water Index (NDWI):
 Purpose: To enhance and detect open water features.
+
 Modified Normalized Difference Water Index (MNDWI):
 Purpose: To improve water detection and minimize confusion with built-up land or soil, which is a common issue with NDWI.
+
 Normalized Difference Built-up Index (NDBI):
 Purpose: To identify built-up and urban areas.
 
@@ -50,3 +54,4 @@ Vegetation Impact (NDVI): The NDVI Change Map (Pre vs. Post) showed significant 
 Water Delineation (MNDWI): The MNDWI provided a more accurate and clearer delineation of floodwater compared to the standard NDWI, especially in mixed agricultural and semi-urban zones.
 
 Built-up Area (NDBI): The NDBI analysis, when overlaid with the flood extent, identified several settlements and infrastructure components vulnerable to or impacted by the floodwaters.
+
